@@ -13,8 +13,7 @@ let img;
 wordsOfWisdom = [];
 
 function preload() {
-  shirtFont= loadFont('data/BOD_B.ttf');
-  font= loadFont('data/BOD_BI.ttf');
+
   kfont= loadFont('data/kopubM.otf');
   img = loadImage('data/letter.png');
 
