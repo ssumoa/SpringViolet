@@ -1,12 +1,3 @@
-//listen, I'm not saying it's good, but I am saying it's done.
-//and probably plottable
-//and done in good fun
-//with affection.
-
-
-//Oh, Here's a version to export a SVG on click- in case anyone wanted one 
-//for plotting or stickers or whatever (BYO fill algorithm if you don't use axidraw's  inkscape extention):
-// https://editor.p5js.org/areuland/sketches/747uffXvT
 
 let kwords = ['봄', '은', '짧', '고', '하', '루', '는', '길', '다', '보', '라', '색', '바', '이', '올', '렛', '제', '비', '꽃', '흰', '상', '여', '비', '하', '얀', '벚', '꽃', '비', '박', '하', '향', '비', '읍', '취', '향'];
 let img;
